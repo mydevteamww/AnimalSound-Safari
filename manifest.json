@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "AnimalSound Safari",
+  "description": "AnimalSound :Safari",
   "dir": "ltr",
   "display": "standalone",
-  "name": "AnimalSound Safari",
+  "name": "AnimalSound :Safari",
   "orientation": "any",
   "scope": "/",
-  "short_name": "AnimalSound Safari",
+  "short_name": "AnimalSound :Safari",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "AnimalSound Safari",
+      "name": "AnimalSound :Safari",
       "url": "",
       "description": ""
     }
